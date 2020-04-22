@@ -8,7 +8,7 @@ public class MyList {
     public int getValue(){
         return value;
     }
-    public void SetNextElement(MyList element){
+    public void setNextElement(MyList element){
         this.Next=element;
     }
 
